@@ -1,7 +1,8 @@
 # LIMPEZA E TRATAMENTO DE DADOS
 
 O objetivo desse projeto é proceder todo o ciclo ETL obtendo dados persistidos em um ambiente de cloud (Azure).
-Para isso foi criada uma instância MySQL na plataforma da Azure (desde a criação com os scripts de implementação até a persistência dos dados).
+Para isso, foi criada uma instância MySQL na plataforma da Azure (desde a implementação, com os scripts, até a persistência dos dados).
+Depois de toda a etapa de implementação, e obtenção de dados integrando  o Power BI diretamente à estrutura do banco na Azure, os seguintes procedimentos foram executados a fim de se obter os dados limpos e polidos para alimentar o ciclo de análise posterior:
 
 ## dependent
 - Exclusão de coluna com metadados
