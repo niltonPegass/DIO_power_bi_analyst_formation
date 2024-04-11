@@ -1,5 +1,8 @@
 # LIMPEZA E TRATAMENTO DE DADOS
 
+O objetivo desse projeto é proceder todo o ciclo ETL obtendo dados persistidos em um ambiente de cloud (Azure).
+Para isso foi criada uma instância MySQL na plataforma da Azure (desde a criação com os scripts de implementação até a persistência dos dados).
+
 ## dependent
 - Exclusão de coluna com metadados
 - Alteração de tipo:
